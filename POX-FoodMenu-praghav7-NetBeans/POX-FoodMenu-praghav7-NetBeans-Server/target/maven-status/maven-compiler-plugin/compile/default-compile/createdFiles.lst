@@ -1,0 +1,8 @@
+com\mycompany\helloworld\ApplicationConfig.class
+com\mycompany\model\SelectedFoodItems.class
+com\mycompany\helloworld\GenericResource.class
+com\mycompany\model\FoodItem.class
+com\mycompany\service\NewServletListener.class
+com\mycompany\service\FoodItemService.class
+com\mycompany\model\FoodItemData.class
+com\mycompany\model\NewFoodItem.class
